@@ -74,7 +74,7 @@ Verification layer for autonomous AI agents. Uses hashing and blockchain-based v
 **Built during:** HackIndia
 **Concepts:** Python · FastAPI · Hashing · Blockchain
 
-`YOUR_AGENTSEAL_REPOSITORY_LINK`
+
 
 </td>
 </tr>
